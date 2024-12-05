@@ -1,0 +1,14 @@
+/Users/kyryll/Downloads/c#1/CS3/CS3/obj/Debug/net9.0/CS3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kyryll/Downloads/c#1/CS3/CS3/obj/Debug/net9.0/CS3.AssemblyInfoInputs.cache
+/Users/kyryll/Downloads/c#1/CS3/CS3/obj/Debug/net9.0/CS3.AssemblyInfo.cs
+/Users/kyryll/Downloads/c#1/CS3/CS3/obj/Debug/net9.0/CS3.csproj.CoreCompileInputs.cache
+/Users/kyryll/Downloads/c#1/CS3/CS3/bin/Debug/net9.0/CS3
+/Users/kyryll/Downloads/c#1/CS3/CS3/bin/Debug/net9.0/CS3.deps.json
+/Users/kyryll/Downloads/c#1/CS3/CS3/bin/Debug/net9.0/CS3.runtimeconfig.json
+/Users/kyryll/Downloads/c#1/CS3/CS3/bin/Debug/net9.0/CS3.dll
+/Users/kyryll/Downloads/c#1/CS3/CS3/bin/Debug/net9.0/CS3.pdb
+/Users/kyryll/Downloads/c#1/CS3/CS3/obj/Debug/net9.0/CS3.dll
+/Users/kyryll/Downloads/c#1/CS3/CS3/obj/Debug/net9.0/refint/CS3.dll
+/Users/kyryll/Downloads/c#1/CS3/CS3/obj/Debug/net9.0/CS3.pdb
+/Users/kyryll/Downloads/c#1/CS3/CS3/obj/Debug/net9.0/CS3.genruntimeconfig.cache
+/Users/kyryll/Downloads/c#1/CS3/CS3/obj/Debug/net9.0/ref/CS3.dll
